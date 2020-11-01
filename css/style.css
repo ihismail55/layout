@@ -1,0 +1,64 @@
+.box{
+	overflow: hidden;
+
+}
+.head{
+	min-height: 100px;
+	border:2px solid white;
+	background-color: skyblue;
+	width: 25%; 
+	float: left;
+	text-align: center;
+
+
+}
+.head1{
+	min-height: 100px;
+	border:2px solid white;
+	background-color: skyblue; 
+	width: 74%;
+	float: right;
+	text-align: center;
+
+}
+
+.box{
+	overflow: hidden;
+
+
+}
+.blog{
+	min-height: 400px;
+	border:2px solid white;
+	background-color: skyblue;
+    width: 32.9%;
+    float: left;
+    text-align: center;
+   
+}	 
+
+.box{
+
+  overflow: hidden;
+
+}
+
+.footer1{
+	min-height: 120px;
+	border:2px solid white;
+	background-color: skyblue;
+	width: 50%; 
+	float: left;
+	text-align: center;
+
+
+}
+.footer2{
+	min-height: 120px;
+	border:2px solid white;
+	background-color: skyblue;
+	width: 49%; 
+	float: right;
+	text-align: center;
+
+}
